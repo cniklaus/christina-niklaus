@@ -18,7 +18,22 @@ The 28th International Conference on Computational Linguistics<br/>
 COLING 2020, Barcelona, Spain. _(online)_<br/>
 December 2020
 
-- **AL: An Adaptive Learning Support System for Argumentation Skills**
+- **AL: An Adaptive Learning Support System for Argumentation Skills**<br/>
+
+- **Transforming Complex Sentences Into a Semantic Hierarchy**<br/>
+[paper](https://www.aclweb.org/anthology/P19-1333.pdf)
+
+- **DisSim: A Discourse-Aware Syntactic Text Simplification Framework for English and German**<br/>
+
+- **MinWikiSplit: A Sentence Splitting Corpus with Minimal Propositions**<br/>
+
+- **Graphene: Semantically-linked Propositions in Open Information Extraction**<br/>
+
+- **A Survey on Open Information Extraction**<br/>
+
+- **Graphene: A Context-Preserving Open Information Extraction System**<br/>
+
+- **A Sentence Simplification System for Improving Relation Extraction**<br/>
 
 
 # Talks
