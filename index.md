@@ -28,21 +28,27 @@ Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 
 - **DisSim: A Discourse-Aware Syntactic Text Simplification Framework for English and German**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
+[paper](https://www.aclweb.org/anthology/W19-8662.pdf)
 
 - **MinWikiSplit: A Sentence Splitting Corpus with Minimal Propositions**<br/>
 Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
+[paper](https://www.aclweb.org/anthology/W19-8615.pdf)
 
-- **Graphene: Semantically-linked Propositions in Open Information Extraction**<br/>
+- **Graphene: Semantically-Linked Propositions in Open Information Extraction**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
+[paper](https://www.aclweb.org/anthology/C18-1195.pdf)
 
 - **A Survey on Open Information Extraction**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
+[paper](https://www.aclweb.org/anthology/C18-1326.pdf)
 
 - **Graphene: A Context-Preserving Open Information Extraction System**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
+[paper](https://www.aclweb.org/anthology/C18-2021.pdf)
 
 - **A Sentence Simplification System for Improving Relation Extraction**<br/>
 Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh and André Freitas<br/>
+[paper](https://www.aclweb.org/anthology/C16-2036.pdf)
 
 - **Text Simplification for Information Extraction**<br/>
 Christina Niklaus<br/>
