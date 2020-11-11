@@ -6,9 +6,13 @@
 
 # Publications
 - **A Corpus for Argumentative Writing Support in German**
+
 Thiemo Wambsganss, Christina Niklaus, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister
+
 The 28th International Conference on Computational Linguistics
+
 COLING 2020, Barcelona, Spain.
+
 December 2020
 
 - **AL: An Adaptive Learning Support System for Argumentation Skills**
