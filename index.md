@@ -1,6 +1,7 @@
 ## Christina Niklaus
 
 # Bio
+[Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)
 
 # Research Areas
 - Natural Language Processing
@@ -34,6 +35,8 @@ December 2020
 - **Graphene: A Context-Preserving Open Information Extraction System**<br/>
 
 - **A Sentence Simplification System for Improving Relation Extraction**<br/>
+
+- **Text Simplification for Information Extraction**
 
 
 # Talks
