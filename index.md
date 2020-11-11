@@ -43,6 +43,16 @@ December 2020
 
 
 # Reviewer & PC Memberships
+- **NAACL 2021**
+
+- **EACL 2021**
+
+- **EMNLP 2020**
+
+- **NLDB 2020**
+
+- **ECAI 2020**
+
 
 
 # Teaching
