@@ -12,10 +12,10 @@
 - Argumentation Mining
 
 # Publications
-- **A Corpus for Argumentative Writing Support in German**</br>
-Thiemo Wambsganss, Christina Niklaus, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister</br>
-The 28th International Conference on Computational Linguistics</br>
-COLING 2020, Barcelona, Spain. _(online)_</br>
+- **A Corpus for Argumentative Writing Support in German**<br/>
+Thiemo Wambsganss, Christina Niklaus, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister<br/>
+The 28th International Conference on Computational Linguistics<br/>
+COLING 2020, Barcelona, Spain. _(online)_<br/>
 December 2020
 
 - **AL: An Adaptive Learning Support System for Argumentation Skills**
