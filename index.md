@@ -3,6 +3,13 @@
 # Bio
 
 # Research Areas
+- Natural Language Processing
+- Data Science
+- Artificial Intelligence
+
+- Text Simplification
+- Open Information Extraction
+- Argumentation Mining
 
 # Publications
 - **A Corpus for Argumentative Writing Support in German**</br>
