@@ -44,7 +44,7 @@ Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
 - **A Sentence Simplification System for Improving Relation Extraction**<br/>
 Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh and André Freitas<br/>
 
-- **Text Simplification for Information Extraction**
+- **Text Simplification for Information Extraction**<br/>
 Christina Niklaus<br/>
 
 
