@@ -20,7 +20,7 @@ COLING 2020, Barcelona, Spain. _(online)_<br/>
 December 2020<br/>
 [paper](), [dataset](), [presentation](), [bibtex]()
 
-- **AL: An Adaptive Learning Support System for Argumentation Skills**<br/>
+- **AL: An Adaptive Learning Support System for Argumentation Skills _(Honourable Mention Award)_**<br/>
 Thiemo Wambsganss, Christina Niklaus, Matthias Cetto, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister<br/>
 Conference on Human Factors in Computing Systems<br/>
 CHI 2020, Honolulu, Hawaii, USA. _(online)_<br/>
@@ -55,7 +55,7 @@ COLING 2018, Santa Fe, New Mexico, USA.<br/>
 August 2018.<br/>
 [paper](https://www.aclweb.org/anthology/C18-1195.pdf), [code](), [presentation](), [bibtex]()
 
-- **A Survey on Open Information Extraction**<br/>
+- **A Survey on Open Information Extraction _(Best Survey Paper)_**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 27th International Conference on Computational Linguistics<br/>
 COLING 2018, Santa Fe, New Mexico, USA.<br/>
