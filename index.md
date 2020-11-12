@@ -11,7 +11,7 @@
 [GitLab](https://gitlab.com/cnik)<br/>
 [Alexandria](https://www.alexandria.unisg.ch/persons/8380)<br/>
 
-# Research Areas
+# Research Interests
 ### General Areas:
 - Natural Language Processing
 - Data Science
