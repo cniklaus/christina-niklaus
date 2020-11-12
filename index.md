@@ -26,7 +26,7 @@ Thiemo Wambsganss, Christina Niklaus, Matthias Cetto, Matthias Söllner, Siegfri
 Conference on Human Factors in Computing Systems<br/>
 CHI 2020, Honolulu, Hawaii, USA. _(online)_<br/>
 April 2020<br/>
-[paper](https://dl.acm.org/doi/pdf/10.1145/3313831.3376732), [slides](https://drive.google.com/drive/folders/1LXLEt8zOgUBETedELRJ43Vfc_KgQJ5QA), [presentation](https://acm-prod-cdn.literatumonline.com/3313831.3376732/a526a0b4-a03d-46d1-8dbf-b6ac126e97dd/a603-wambsganss-presentation.mp4?b92b4ad1b4f274c70877518315abb28be831d54738a81f1de54388f7ee04e6e074b3a2e2c04692f1a45846799b3c2bca8cd50f3ebc0d7a7ebd905042b3bfcd0445f8cf70f0d520adbda86c142ff1834dc0036961c43567501d287e0ada4190d904bc93c24c), [video](https://drive.google.com/drive/folders/1VhQe_0sZ2__DTDFdGl4ICYgDCsE0Suhy), [demo](http://95.216.102.40:5130/index), [bibtex](https://drive.google.com/drive/folders/1zsKZZJ0Q3cvrwxnHBQbiAswKu3fWJa-y)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3313831.3376732), [slides](https://drive.google.com/drive/folders/1LXLEt8zOgUBETedELRJ43Vfc_KgQJ5QA), [presentation](https://acm-prod-cdn.literatumonline.com/3313831.3376732/a526a0b4-a03d-46d1-8dbf-b6ac126e97dd/a603-wambsganss-presentation.mp4?b92b4ad1b4f274c70877518315abb28be831d54738a81f1de54388f7ee04e6e074b3a2e2c04692f1a45846799b3c2bca8cd50f3ebc0d7a7ebd905042b3bfcd0445f8cf70f0d520adbda86c142ff1834dc0036961c43567501d287e0ada4190d904bc93c24c), [video](https://drive.google.com/drive/folders/1LtiWZrX2A5Q8CymYRKxzp_DVRaqIAlyF), [demo](http://95.216.102.40:5130/index), [bibtex](https://drive.google.com/drive/folders/1zsKZZJ0Q3cvrwxnHBQbiAswKu3fWJa-y)
 
 - **Transforming Complex Sentences Into a Semantic Hierarchy**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
