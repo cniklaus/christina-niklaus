@@ -126,22 +126,22 @@ Senior Program Committee in NLP
 - **Text Mining (MSc)**<br/>
     lecture and practice<br/>
     University of Passau, Germany.<br/>
-    Summer 2018.
+    Summer 2018
 
 - **Information Retrieval (BSc)**<br/>
     lecture and practice<br/>
     University of Passau, Germany.<br/>
-    Winter 2017.
+    Winter 2017
 
 - **Text Mining Project (BSc, MSc)**<br/>
     lab<br/>
     University of Passau, Germany.<br/>
-    Summer 2017.
+    Summer 2017
 
 - **Information Retrieval (BSc)**<br/>
     lecture and practice<br/>
     University of Passau, Germany.<br/>
-    Winter 2016.
+    Winter 2016
 
 
 # Current Projects
