@@ -39,21 +39,21 @@ July 2019<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 12th International Conference on Natural Language Generation<br/>
 INLG 2019, Tokyo, Japan.<br/>
-October-November 2019.<br/>
+October-November 2019<br/>
 [paper](https://www.aclweb.org/anthology/W19-8662.pdf), [poster](https://drive.google.com/drive/folders/1Bfy18mRmeDTAJuuInQQMECCYQxPrGLN_), [code](https://github.com/Lambda-3/DiscourseSimplification), [video](https://streamable.com/08clo), [bibtex](https://www.aclweb.org/anthology/W19-8662.bib)
 
 - **MinWikiSplit: A Sentence Splitting Corpus with Minimal Propositions**<br/>
 Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
 The 12th International Conference on Natural Language Generation<br/>
 INLG 2019, Tokyo, Japan.<br/>
-October-November 2019.<br/>
+October-November 2019<br/>
 [paper](https://www.aclweb.org/anthology/W19-8615.pdf), [poster](https://drive.google.com/drive/folders/1H3MK8tbeNxNcWBunT6mNB7GYiw_gyNxo), [dataset](https://github.com/Lambda-3/MinWikiSplit), [bibtex](https://www.aclweb.org/anthology/W19-8615.bib)
 
 - **Graphene: Semantically-Linked Propositions in Open Information Extraction**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
 The 27th International Conference on Computational Linguistics<br/>
 COLING 2018, Santa Fe, New Mexico, USA.<br/>
-August 2018.<br/>
+August 2018<br/>
 [paper](https://www.aclweb.org/anthology/C18-1195.pdf), [slides](https://drive.google.com/drive/folders/1D4o0O29GoY5Iv42NOfWkf-YPGm6guKVD), [code](https://github.com/Lambda-3/Graphene), [bibtex](https://www.aclweb.org/anthology/C18-1195.bib)
 
 - **A Survey on Open Information Extraction**<br/>
@@ -61,21 +61,21 @@ August 2018.<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 27th International Conference on Computational Linguistics<br/>
 COLING 2018, Santa Fe, New Mexico, USA.<br/>
-August 2018.<br/>
+August 2018<br/>
 [paper](https://www.aclweb.org/anthology/C18-1326.pdf), [slides](https://drive.google.com/drive/folders/1c2HdlSWnshxOSNVz09SLpPzrLewSyB5I), [bibtex](https://www.aclweb.org/anthology/C18-1326.bib)
 
 - **Graphene: A Context-Preserving Open Information Extraction System**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
 The 27th International Conference on Computational Linguistics: System Demonstrations<br/>
 COLING 2018, Santa Fe, New Mexico, USA.<br/>
-August 2018.<br/>
+August 2018<br/>
 [paper](https://www.aclweb.org/anthology/C18-2021.pdf), [slides](https://drive.google.com/drive/folders/1MqehbXxJ3ig_t0yDUtjABIHZf63Zu3p1), [code](https://github.com/Lambda-3/Graphene), [bibtex](https://www.aclweb.org/anthology/C18-2021.bib)
 
 - **A Sentence Simplification System for Improving Relation Extraction**<br/>
 Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh and André Freitas<br/>
 The 26th International Conference on Computational Linguistics: System Demonstrations<br/>
 COLING 2016, Osaka, Japan.<br/>
-December 2016.<br/>
+December 2016<br/>
 [paper](https://www.aclweb.org/anthology/C16-2036.pdf), [poster](https://drive.google.com/drive/folders/1T5gxH5Jw6YXfkKxlLReLiG6SH0Pl_vlw), [code](https://github.com/Lambda-3/DiscourseSimplification), [bibtex](https://www.aclweb.org/anthology/C16-2036.bib)
 
 - **Text Simplification for Information Extraction**<br/>
