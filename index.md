@@ -17,7 +17,7 @@
 - Data Science
 - Artificial Intelligence
 
-### Specific Areas
+### Specific Areas:
 - Text Simplification
 - Open Information Extraction
 - Argumentation Mining
