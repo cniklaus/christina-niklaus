@@ -1,6 +1,10 @@
-## Christina Niklaus
+![]
 
 # Bio
+
+# Projects
+
+# Links
 [Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)<br/>
 [ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)<br/>
 [GitHub](https://github.com/cniklaus)<br/>
