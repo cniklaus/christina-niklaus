@@ -40,14 +40,14 @@ Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 12th International Conference on Natural Language Generation<br/>
 INLG 2019, Tokyo, Japan.<br/>
 October-November 2019.<br/>
-[paper](https://www.aclweb.org/anthology/W19-8662.pdf), [poster](https://drive.google.com/drive/folders/1ru439FqxIV0I3MVj2OSdt8EEsWNbaUgX), [code](https://github.com/Lambda-3/DiscourseSimplification), [video](https://streamable.com/08clo), [bibtex](https://www.aclweb.org/anthology/W19-8662.bib)
+[paper](https://www.aclweb.org/anthology/W19-8662.pdf), [poster](https://drive.google.com/drive/folders/1Bfy18mRmeDTAJuuInQQMECCYQxPrGLN_), [code](https://github.com/Lambda-3/DiscourseSimplification), [video](https://streamable.com/08clo), [bibtex](https://www.aclweb.org/anthology/W19-8662.bib)
 
 - **MinWikiSplit: A Sentence Splitting Corpus with Minimal Propositions**<br/>
 Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
 The 12th International Conference on Natural Language Generation<br/>
 INLG 2019, Tokyo, Japan.<br/>
 October-November 2019.<br/>
-[paper](https://www.aclweb.org/anthology/W19-8615.pdf), [poster](https://drive.google.com/drive/folders/1ru439FqxIV0I3MVj2OSdt8EEsWNbaUgX), [dataset](https://github.com/Lambda-3/MinWikiSplit), [bibtex](https://www.aclweb.org/anthology/W19-8615.bib)
+[paper](https://www.aclweb.org/anthology/W19-8615.pdf), [poster](https://drive.google.com/drive/folders/1H3MK8tbeNxNcWBunT6mNB7GYiw_gyNxo), [dataset](https://github.com/Lambda-3/MinWikiSplit), [bibtex](https://www.aclweb.org/anthology/W19-8615.bib)
 
 - **Graphene: Semantically-Linked Propositions in Open Information Extraction**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
