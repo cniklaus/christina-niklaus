@@ -1,4 +1,4 @@
-![bio](https://github.com/cniklaus/research/blob/gh-pages/photo.jpg)
+
 
 # Bio
 
