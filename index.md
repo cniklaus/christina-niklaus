@@ -33,7 +33,7 @@ Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 57th Annual Meeting of the Association for Computational Linguistics<br/>
 ACL 2019, Florence, Italy.<br/>
 July 2019<br/>
-[paper](https://www.aclweb.org/anthology/P19-1333.pdf), [slides](https://drive.google.com/drive/folders/1H7AoNiUBvXeJoCJQwmzuvA6_4sCe4Ba0), [code](https://github.com/Lambda-3/DiscourseSimplification), [presentation](https://vimeo.com/384772066), [bibtex](https://www.aclweb.org/anthology/P19-1333.bib)
+[paper](https://www.aclweb.org/anthology/P19-1333.pdf), [slides](https://drive.google.com/drive/folders/1H7AoNiUBvXeJoCJQwmzuvA6_4sCe4Ba0), [presentation](https://vimeo.com/384772066), [code](https://github.com/Lambda-3/DiscourseSimplification), [bibtex](https://www.aclweb.org/anthology/P19-1333.bib)
 
 - **DisSim: A Discourse-Aware Syntactic Text Simplification Framework for English and German**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
@@ -146,9 +146,21 @@ Senior Program Committee in NLP
     lecture and practice<br/>
     University of Passau, Germany.<br/>
     Winter 2016
-
+   
 
 # Current Projects
+
+
+# Contact Info
+Christina Niklaus<br/>
+Institute of Computer Science ICS-HSG, Chair of Data Science and Natural Language Processing<br/>
+University of St.Gallen (HSG)<br/>
+
+Rosenbergstrasse 30<br/>
+9000 St. Gallen, Switzerland<br/>
+
+christina.niklaus@unisg.ch
+[www.ics.unisg.ch](www.ics.unisg.ch)
 
 You can use the [editor on GitHub](https://github.com/cniklaus/christina-niklaus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
