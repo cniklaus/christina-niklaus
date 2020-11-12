@@ -36,7 +36,7 @@ Thiemo Wambsganss, Christina Niklaus, Matthias Cetto, Matthias Söllner, Siegfri
 Conference on Human Factors in Computing Systems<br/>
 CHI 2020, Honolulu, Hawaii, USA. _(online)_<br/>
 April 2020<br/>
-[paper](https://dl.acm.org/doi/pdf/10.1145/3313831.3376732), [slides](https://drive.google.com/drive/folders/1LXLEt8zOgUBETedELRJ43Vfc_KgQJ5QA), [presentation](https://acm-prod-cdn.literatumonline.com/3313831.3376732/a526a0b4-a03d-46d1-8dbf-b6ac126e97dd/a603-wambsganss-presentation.mp4?b92b4ad1b4f274c70877518315abb28be831d54738a81f1de54388f7ee04e6e074b3a2e2c04692f1a45846799b3c2bca8cd50f3ebc0d7a7ebd905042b3bfcd0445f8cf70f0d520adbda86c142ff1834dc0036961c43567501d287e0ada4190d904bc93c24c), [video](https://drive.google.com/drive/folders/1LtiWZrX2A5Q8CymYRKxzp_DVRaqIAlyF), [demo](http://95.216.102.40:5130/index), [bibtex](https://drive.google.com/drive/folders/1zsKZZJ0Q3cvrwxnHBQbiAswKu3fWJa-y)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3313831.3376732), [slides](https://github.com/cniklaus/research/blob/gh-pages/CHI%202020/Adaptive%20Learning.pdf), [presentation](https://acm-prod-cdn.literatumonline.com/3313831.3376732/a526a0b4-a03d-46d1-8dbf-b6ac126e97dd/a603-wambsganss-presentation.mp4?b92b4ad1b4f274c70877518315abb28be831d54738a81f1de54388f7ee04e6e074b3a2e2c04692f1a45846799b3c2bca8cd50f3ebc0d7a7ebd905042b3bfcd0445f8cf70f0d520adbda86c142ff1834dc0036961c43567501d287e0ada4190d904bc93c24c), [video](https://drive.google.com/drive/folders/1LtiWZrX2A5Q8CymYRKxzp_DVRaqIAlyF), [demo](http://95.216.102.40:5130/index), [bibtex](https://github.com/cniklaus/research/blob/gh-pages/CHI%202020/acm_3313831.3376732.bib)
 
 - **Transforming Complex Sentences Into a Semantic Hierarchy**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
@@ -50,21 +50,21 @@ Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 12th International Conference on Natural Language Generation<br/>
 INLG 2019, Tokyo, Japan.<br/>
 October-November 2019<br/>
-[paper](https://www.aclweb.org/anthology/W19-8662.pdf), [poster](https://drive.google.com/drive/folders/1Bfy18mRmeDTAJuuInQQMECCYQxPrGLN_), [code](https://github.com/Lambda-3/DiscourseSimplification), [video](https://streamable.com/08clo), [bibtex](https://www.aclweb.org/anthology/W19-8662.bib)
+[paper](https://www.aclweb.org/anthology/W19-8662.pdf), [poster](https://github.com/cniklaus/research/blob/gh-pages/INLG%202019/A4_Demo.pdf), [code](https://github.com/Lambda-3/DiscourseSimplification), [video](https://streamable.com/08clo), [bibtex](https://www.aclweb.org/anthology/W19-8662.bib)
 
 - **MinWikiSplit: A Sentence Splitting Corpus with Minimal Propositions**<br/>
 Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
 The 12th International Conference on Natural Language Generation<br/>
 INLG 2019, Tokyo, Japan.<br/>
 October-November 2019<br/>
-[paper](https://www.aclweb.org/anthology/W19-8615.pdf), [poster](https://drive.google.com/drive/folders/1H3MK8tbeNxNcWBunT6mNB7GYiw_gyNxo), [dataset](https://github.com/Lambda-3/MinWikiSplit), [bibtex](https://www.aclweb.org/anthology/W19-8615.bib)
+[paper](https://www.aclweb.org/anthology/W19-8615.pdf), [poster](https://github.com/cniklaus/research/blob/gh-pages/INLG%202019/A4_MinWikiSplit.pdf), [dataset](https://github.com/Lambda-3/MinWikiSplit), [bibtex](https://www.aclweb.org/anthology/W19-8615.bib)
 
 - **Graphene: Semantically-Linked Propositions in Open Information Extraction**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
 The 27th International Conference on Computational Linguistics<br/>
 COLING 2018, Santa Fe, New Mexico, USA.<br/>
 August 2018<br/>
-[paper](https://www.aclweb.org/anthology/C18-1195.pdf), [slides](https://drive.google.com/drive/folders/1D4o0O29GoY5Iv42NOfWkf-YPGm6guKVD), [code](https://github.com/Lambda-3/Graphene), [bibtex](https://www.aclweb.org/anthology/C18-1195.bib)
+[paper](https://www.aclweb.org/anthology/C18-1195.pdf), [slides](https://github.com/cniklaus/research/blob/gh-pages/COLING%202018/Presentation_COLING_Graphene.pdf), [code](https://github.com/Lambda-3/Graphene), [bibtex](https://www.aclweb.org/anthology/C18-1195.bib)
 
 - **A Survey on Open Information Extraction**<br/>
 **_(Best Survey Paper)_**<br/>
@@ -72,21 +72,21 @@ Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 27th International Conference on Computational Linguistics<br/>
 COLING 2018, Santa Fe, New Mexico, USA.<br/>
 August 2018<br/>
-[paper](https://www.aclweb.org/anthology/C18-1326.pdf), [slides](https://drive.google.com/drive/folders/1c2HdlSWnshxOSNVz09SLpPzrLewSyB5I), [bibtex](https://www.aclweb.org/anthology/C18-1326.bib)
+[paper](https://www.aclweb.org/anthology/C18-1326.pdf), [slides](https://github.com/cniklaus/research/blob/gh-pages/COLING%202018/Presentation_COLING__Open_IE_survey.pdf), [bibtex](https://www.aclweb.org/anthology/C18-1326.bib)
 
 - **Graphene: A Context-Preserving Open Information Extraction System**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
 The 27th International Conference on Computational Linguistics: System Demonstrations<br/>
 COLING 2018, Santa Fe, New Mexico, USA.<br/>
 August 2018<br/>
-[paper](https://www.aclweb.org/anthology/C18-2021.pdf), [slides](https://drive.google.com/drive/folders/1MqehbXxJ3ig_t0yDUtjABIHZf63Zu3p1), [code](https://github.com/Lambda-3/Graphene), [bibtex](https://www.aclweb.org/anthology/C18-2021.bib)
+[paper](https://www.aclweb.org/anthology/C18-2021.pdf), [slides](https://github.com/cniklaus/research/blob/gh-pages/COLING%202018/COLING_Demo.pdf), [code](https://github.com/Lambda-3/Graphene), [bibtex](https://www.aclweb.org/anthology/C18-2021.bib)
 
 - **A Sentence Simplification System for Improving Relation Extraction**<br/>
 Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh and André Freitas<br/>
 The 26th International Conference on Computational Linguistics: System Demonstrations<br/>
 COLING 2016, Osaka, Japan.<br/>
 December 2016<br/>
-[paper](https://www.aclweb.org/anthology/C16-2036.pdf), [poster](https://drive.google.com/drive/folders/1T5gxH5Jw6YXfkKxlLReLiG6SH0Pl_vlw), [code](https://github.com/Lambda-3/DiscourseSimplification), [bibtex](https://www.aclweb.org/anthology/C16-2036.bib)
+[paper](https://www.aclweb.org/anthology/C16-2036.pdf), [poster](https://github.com/cniklaus/research/blob/gh-pages/COLING%202016/COLING_simplification.pdf), [code](https://github.com/Lambda-3/DiscourseSimplification), [bibtex](https://www.aclweb.org/anthology/C16-2036.bib)
 
 - **Text Simplification for Information Extraction**<br/>
 Christina Niklaus<br/>
