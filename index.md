@@ -118,6 +118,30 @@ Senior Program Committee in NLP
 
 
 # Teaching
+- **Fundamentals and Methods of Computer Science (BA)**<br/>
+    practice<br/>
+    University of St.Gallen, Switzerland.<br/>
+    Winter 2019
+    
+- **Text Mining (MSc)**<br/>
+    lecture and practice<br/>
+    University of Passau, Germany.<br/>
+    Summer 2018.
+
+- **Information Retrieval (BSc)**<br/>
+    lecture and practice<br/>
+    University of Passau, Germany.<br/>
+    Winter 2017.
+
+- **Text Mining Project (BSc, MSc)**<br/>
+    lab<br/>
+    University of Passau, Germany.<br/>
+    Summer 2017.
+
+- **Information Retrieval (BSc)**<br/>
+    lecture and practice<br/>
+    University of Passau, Germany.<br/>
+    Winter 2016.
 
 
 # Current Projects
