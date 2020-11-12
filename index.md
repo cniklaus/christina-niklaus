@@ -21,11 +21,11 @@ December 2020<br/>
 [paper](), [dataset](), [presentation](), [bibtex]()
 
 - **AL: An Adaptive Learning Support System for Argumentation Skills**<br/>
+**_(Honourable Mention Award)_**<br/>
 Thiemo Wambsganss, Christina Niklaus, Matthias Cetto, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister<br/>
 Conference on Human Factors in Computing Systems<br/>
 CHI 2020, Honolulu, Hawaii, USA. _(online)_<br/>
 April 2020<br/>
-_(Honourable Mention Award)_
 [paper](https://dl.acm.org/doi/pdf/10.1145/3313831.3376732), [bibtex]()
 
 - **Transforming Complex Sentences Into a Semantic Hierarchy**<br/>
@@ -57,11 +57,11 @@ August 2018.<br/>
 [paper](https://www.aclweb.org/anthology/C18-1195.pdf), [code](), [presentation](), [bibtex]()
 
 - **A Survey on Open Information Extraction**<br/>
+**_(Best Survey Paper)_**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 27th International Conference on Computational Linguistics<br/>
 COLING 2018, Santa Fe, New Mexico, USA.<br/>
 August 2018.<br/>
-_(Best Survey Paper)_
 [paper](https://www.aclweb.org/anthology/C18-1326.pdf), [presentation](), [bibtex]()
 
 - **Graphene: A Context-Preserving Open Information Extraction System**<br/>
