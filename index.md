@@ -1,19 +1,19 @@
 ## Christina Niklaus
 
 # Bio
-[Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)
-[ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)
-[GitHub](https://github.com/cniklaus)
-[GitLab](https://gitlab.com/cnik)
-[Alexandria](https://www.alexandria.unisg.ch/persons/8380)
+[Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)<br/>
+[ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)<br/>
+[GitHub](https://github.com/cniklaus)<br/>
+[GitLab](https://gitlab.com/cnik)<br/>
+[Alexandria](https://www.alexandria.unisg.ch/persons/8380)<br/>
 
 # Research Areas
-## General Areas:
+### General Areas:
 - Natural Language Processing
 - Data Science
 - Artificial Intelligence
 
-## Specific Areas
+### Specific Areas
 - Text Simplification
 - Open Information Extraction
 - Argumentation Mining
