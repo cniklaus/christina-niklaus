@@ -17,7 +17,8 @@
 Thiemo Wambsganss, Christina Niklaus, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister<br/>
 The 28th International Conference on Computational Linguistics<br/>
 COLING 2020, Barcelona, Spain. _(online)_<br/>
-December 2020
+December 2020<br/>
+[paper](), [dataset](), [presentation](), [bibtex]()
 
 - **AL: An Adaptive Learning Support System for Argumentation Skills**<br/>
 Thiemo Wambsganss, Christina Niklaus, Matthias Cetto, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister<br/>
@@ -35,27 +36,45 @@ July 2019<br/>
 
 - **DisSim: A Discourse-Aware Syntactic Text Simplification Framework for English and German**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
-[paper](https://www.aclweb.org/anthology/W19-8662.pdf)
+The 12th International Conference on Natural Language Generation<br/>
+INLG 2019, Tokyo, Japan.<br/>
+ctober-November 2019.<br/>
+[paper](https://www.aclweb.org/anthology/W19-8662.pdf), [poster](), [bibtex]()
 
 - **MinWikiSplit: A Sentence Splitting Corpus with Minimal Propositions**<br/>
 Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
-[paper](https://www.aclweb.org/anthology/W19-8615.pdf)
+The 12th International Conference on Natural Language Generation<br/>
+INLG 2019, Tokyo, Japan.<br/>
+October-November 2019.<br/>
+[paper](https://www.aclweb.org/anthology/W19-8615.pdf), [dataset](), [poster](), [bibtex]()
 
 - **Graphene: Semantically-Linked Propositions in Open Information Extraction**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
-[paper](https://www.aclweb.org/anthology/C18-1195.pdf)
+The 27th International Conference on Computational Linguistics<br/>
+COLING 2018, Santa Fe, New Mexico, USA.<br/>
+August 2018.<br/>
+[paper](https://www.aclweb.org/anthology/C18-1195.pdf), [code](), [presentation](), [bibtex]()
 
 - **A Survey on Open Information Extraction**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
-[paper](https://www.aclweb.org/anthology/C18-1326.pdf)
+The 27th International Conference on Computational Linguistics<br/>
+COLING 2018, Santa Fe, New Mexico, USA.<br/>
+August 2018.<br/>
+[paper](https://www.aclweb.org/anthology/C18-1326.pdf), [presentation](), [bibtex]()
 
 - **Graphene: A Context-Preserving Open Information Extraction System**<br/>
 Matthias Cetto, Christina Niklaus, André Freitas and Siegfried Handschuh<br/>
-[paper](https://www.aclweb.org/anthology/C18-2021.pdf)
+The 27th International Conference on Computational Linguistics: System Demonstrations<br/>
+COLING 2018, Santa Fe, New Mexico, USA.<br/>
+August 2018.<br/>
+[paper](https://www.aclweb.org/anthology/C18-2021.pdf), [code](), [presentation](), [bibtex]()
 
 - **A Sentence Simplification System for Improving Relation Extraction**<br/>
 Christina Niklaus, Bernhard Bermeitinger, Siegfried Handschuh and André Freitas<br/>
-[paper](https://www.aclweb.org/anthology/C16-2036.pdf)
+The 26th International Conference on Computational Linguistics: System Demonstrations<br/>
+COLING 2016, Osaka, Japan.<br/>
+December 2016.<br/>
+[paper](https://www.aclweb.org/anthology/C16-2036.pdf), [code](), [poster](), [bibtex]()
 
 - **Text Simplification for Information Extraction**<br/>
 Christina Niklaus<br/>
