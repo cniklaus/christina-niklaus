@@ -86,9 +86,6 @@ March 2016<br/>
 [paper](https://www.researchgate.net/profile/Christina_Niklaus/publication/325405087_Text_Simplification_for_Information_Extraction/links/5b0c5dc1aca2725783ec41e3/Text-Simplification-for-Information-Extraction.pdf)
 
 
-# Talks
-
-
 # Reviewer & PC Memberships
 - **NAACL 2021**<br/>
 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics<br/>
@@ -146,9 +143,6 @@ Senior Program Committee in NLP
     lecture and practice<br/>
     University of Passau, Germany.<br/>
     Winter 2016
-   
-
-# Current Projects
 
 
 # Contact Info
@@ -159,41 +153,5 @@ University of St.Gallen (HSG)<br/>
 Rosenbergstrasse 30<br/>
 9000 St. Gallen, Switzerland<br/>
 
-christina.niklaus@unisg.ch
+christina.niklaus@unisg.ch<br/>
 [www.ics.unisg.ch](www.ics.unisg.ch)
-
-You can use the [editor on GitHub](https://github.com/cniklaus/christina-niklaus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cniklaus/christina-niklaus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
