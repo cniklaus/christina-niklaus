@@ -43,7 +43,7 @@ Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 57th Annual Meeting of the Association for Computational Linguistics<br/>
 ACL 2019, Florence, Italy.<br/>
 July 2019<br/>
-[paper](https://www.aclweb.org/anthology/P19-1333.pdf), [slides](https://drive.google.com/drive/folders/1H7AoNiUBvXeJoCJQwmzuvA6_4sCe4Ba0), [presentation](https://vimeo.com/384772066), [code](https://github.com/Lambda-3/DiscourseSimplification), [bibtex](https://www.aclweb.org/anthology/P19-1333.bib)
+[paper](https://www.aclweb.org/anthology/P19-1333.pdf), [slides](https://github.com/cniklaus/research/blob/gh-pages/ACL%202019/ACL%20Pr%C3%A4sentation.pdf), [presentation](https://vimeo.com/384772066), [code](https://github.com/Lambda-3/DiscourseSimplification), [bibtex](https://www.aclweb.org/anthology/P19-1333.bib)
 
 - **DisSim: A Discourse-Aware Syntactic Text Simplification Framework for English and German**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
