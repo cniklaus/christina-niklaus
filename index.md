@@ -23,14 +23,14 @@ December 2020
 Thiemo Wambsganss, Christina Niklaus, Matthias Cetto, Matthias Söllner, Siegfried Handschuh and Jan Marco Leimeister<br/>
 Conference on Human Factors in Computing Systems<br/>
 CHI 2020, Honolulu, Hawaii, USA. _(online)_<br/>
-April 2020
+April 2020<br/>
 [paper](https://dl.acm.org/doi/pdf/10.1145/3313831.3376732)
 
 - **Transforming Complex Sentences Into a Semantic Hierarchy**<br/>
 Christina Niklaus, Matthias Cetto, André Freitas and Siegfried Handschuh<br/>
 The 57th Annual Meeting of the Association for Computational Linguistics<br/>
-ACL 2019, Florence, Italy.
-July 2019
+ACL 2019, Florence, Italy.<br/>
+July 2019<br/>
 [paper](https://www.aclweb.org/anthology/P19-1333.pdf), presentation, code, bibtex
 
 - **DisSim: A Discourse-Aware Syntactic Text Simplification Framework for English and German**<br/>
