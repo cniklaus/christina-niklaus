@@ -84,16 +84,35 @@ Christina Niklaus<br/>
 
 
 # Reviewer & PC Memberships
-- **NAACL 2021**
+- **NAACL 2021**<br/>
+2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics<br/>
+Mexico City, Mexico<br/>
+June 2021.<br/>
+Program Committee
 
-- **EACL 2021**
+- **EACL 2021**<br/>
+The 16th Conference of the European Chapter of the Association for Computational Linguistics<br/>
+Kyiv, Ukraine. _(online)_<br/>
+April 2021.<br/>
+Review Committee for the track Generation and Summarization
 
-- **EMNLP 2020**
+- **EMNLP 2020**<br/>
+The 2020 Conference on Empirical Methods in Natural Language Processing<br/>
+Punta Cana, Dominican Republic. _(online)_<br/>
+November 2020.<br/>
+Program Committee for the Language Generation track
 
-- **NLDB 2020**
+- **NLDB 2020**<br/>
+25th International Conference on Natural Language & Information Systems<br/>
+Saarbrücken, Germany. _(online)_<br/>
+June 2020.<br/>
+Subreviewer
 
-- **ECAI 2020**
-
+- **ECAI 2020**<br/>
+24th European Conference on Artificial Intelligence<br/>
+Santiago de Compostela, Spain. _(online)_<br/>
+August-September 2019.<br/>
+Senior Program Committee in NLP
 
 
 # Teaching
