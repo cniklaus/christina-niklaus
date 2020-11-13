@@ -14,6 +14,7 @@ Previously, I graduated with a M.Sc. degree in Computer Science from the Univers
 [LinkedIn](https://www.linkedin.com/in/christina-niklaus-054ab6169/)<br/>
 [GitHub](https://github.com/cniklaus)<br/>
 [GitLab](https://gitlab.com/cnik)<br/>
+[ACL Anthology](https://www.aclweb.org/anthology/people/c/christina-niklaus/)
 [Alexandria](https://www.alexandria.unisg.ch/persons/8380)<br/>
 
 
