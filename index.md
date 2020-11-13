@@ -1,7 +1,7 @@
 
 
 
-<img src="images/photo.jpg" alt="question" width="400">
+<img src="images/photo.jpg" alt="question" width="400" class="center">
 
 [Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)<br/>
 [ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)<br/>
