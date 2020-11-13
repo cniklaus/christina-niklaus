@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [Christina Niklaus]
 description: [Research Assistant - University of St.Gallen]
+github:
+  is_project_page: false
