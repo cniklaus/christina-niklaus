@@ -4,6 +4,13 @@
 <img src="images/photo.jpg" alt="question" width="400">
 </center>
 
+I am a Research Associate at the [Chair of Data Science and Natural Language Processing](https://ics.unisg.ch/chair-ds-nlp-handschuh/) at the [University of St.Gallen (HSG)](https://www.unisg.ch/), Switzerland.
+
+I am also a PhD student at the [University of Passau](https://www.uni-passau.de/), Germany, supervised by [Prof. Siegfried Handschuh](https://www.unisg.ch/de/personenverzeichnis/db20c778-0c46-4c52-9523-7b29d2f24288).
+
+Previously, I graduated with a M.Sc. degree in Computer Science from the University of Passau, Germany.
+
+
 [Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)<br/>
 [ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)<br/>
 [LinkedIn](https://www.linkedin.com/in/christina-niklaus-054ab6169/)<br/>
