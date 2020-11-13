@@ -2,6 +2,7 @@
 
 # Bio
 ![Question-Mark-PNG](https://github.com/cniklaus/research/blob/gh-pages/Question-Mark-PNG.png)
+<img src="Question-Mark-PNG.png" alt="question">
 
 # Projects
 
