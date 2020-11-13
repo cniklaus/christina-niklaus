@@ -15,7 +15,7 @@ Previously, I graduated with a M.Sc. degree in Computer Science from the Univers
 <img src="images/github.png" alt="scholar" width="20">  [GitHub](https://github.com/cniklaus)<br/>
 <img src="images/gitlab.png" alt="scholar" width="20">  [GitLab](https://gitlab.com/cnik)<br/>
 <img src="images/acl-logo.svg" alt="scholar" width="20">  [ACL Anthology](https://www.aclweb.org/anthology/people/c/christina-niklaus/)<br/>
-[Alexandria](https://www.alexandria.unisg.ch/persons/8380)<br/>
+<img src="images/unisg.png" alt="scholar" width="20">  [Alexandria](https://www.alexandria.unisg.ch/persons/8380)<br/>
 
 
 # Projects
