@@ -9,7 +9,7 @@ I am also a PhD student at the [University of Passau](https://www.uni-passau.de/
 Previously, I graduated with a M.Sc. degree in Computer Science from the University of Passau, Germany.
 
 
-<img src="images/google_scholar.png" alt="scholar" width="10">[Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)<br/>
+<img src="images/google_scholar.png" alt="scholar" width="20">  [Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)<br/>
 [ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)<br/>
 [LinkedIn](https://www.linkedin.com/in/christina-niklaus-054ab6169/)<br/>
 [GitHub](https://github.com/cniklaus)<br/>
