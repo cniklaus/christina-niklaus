@@ -10,10 +10,10 @@ Previously, I graduated with a M.Sc. degree in Computer Science from the Univers
 
 
 <img src="images/google_scholar.png" alt="scholar" width="20">  [Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)<br/>
-[ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)<br/>
-[LinkedIn](https://www.linkedin.com/in/christina-niklaus-054ab6169/)<br/>
-[GitHub](https://github.com/cniklaus)<br/>
-[GitLab](https://gitlab.com/cnik)<br/>
+<img src="images/researchgate.png" alt="scholar" width="20">  [ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)<br/>
+<img src="images/linkedin.png" alt="scholar" width="20">  [LinkedIn](https://www.linkedin.com/in/christina-niklaus-054ab6169/)<br/>
+<img src="images/github.png" alt="scholar" width="20">  [GitHub](https://github.com/cniklaus)<br/>
+<img src="images/gitlab.png" alt="scholar" width="20">  [GitLab](https://gitlab.com/cnik)<br/>
 [ACL Anthology](https://www.aclweb.org/anthology/people/c/christina-niklaus/)<br/>
 [Alexandria](https://www.alexandria.unisg.ch/persons/8380)<br/>
 
