@@ -25,7 +25,7 @@ Previously, I graduated with a M.Sc. degree in Computer Science from the Univers
 ### From Complex Sentences to a Formal Semantic Representation using Syntactic Text Simplification and Open Information Extraction
 
 
-### Improving the Argumentation Skills of Students through Machine Learning:<br/>
+### Improving the Argumentation Skills of Students through Machine Learning:
 Argumentation is an omnipresent foundation of our daily communication and thinking. The ability of forming convincing arguments is not only the fundament for persuading an audience of novel ideas, but also plays a major role in strategic decision making and analyzing different standpoints. This has been recognized by the Organization for Economic Co‐operation and Development (OECD), which named these so‐called meta cognition skills a major part of their Learning Framework 2030. However, teachers face difficulties to teach argumentation skills to students due to increasing lecture sizes. Therefore, students often suffer from the lack of support, such as formative feedback in their individual learners’ journey.A promising way to support students in learning structured argumentation and enabling teachers to convey it class‐size independently, is the usage of adaptive technology‐based applications in a socio‐technical system for a student’s learning journey. Within our research project, we aim to explore this potential by developing an adaptive argumentation feedback system which actively supports students in improving their ability to argue in a structured, logical and reflective way - autonomously and independently of the instructor, time and place.
 
 
