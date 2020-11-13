@@ -2,7 +2,7 @@
 
 # Bio
 
-<img src="Question-Mark-PNG.png" alt="question" width="200">
+<img src="images/photo.jpg" alt="question" width="200">
 
 # Projects
 
