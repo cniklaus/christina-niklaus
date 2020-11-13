@@ -1,17 +1,19 @@
 
 
-# Bio
 
-<img src="images/photo.jpg" alt="question" width="300">
+<img src="images/photo.jpg" alt="question" width="400">
 
-# Projects
-
-# Links
 [Google Scholar](https://scholar.google.com/citations?user=8uhgB3UAAAAJ&hl=de)<br/>
 [ResearchGate](https://www.researchgate.net/profile/Christina_Niklaus)<br/>
 [GitHub](https://github.com/cniklaus)<br/>
 [GitLab](https://gitlab.com/cnik)<br/>
 [Alexandria](https://www.alexandria.unisg.ch/persons/8380)<br/>
+
+
+# Projects
+
+
+
 
 # Research Interests
 ### General Areas:
