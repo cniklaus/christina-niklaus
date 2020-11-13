@@ -1,5 +1,3 @@
-
-
 <center>
 <img src="images/photo.jpg" alt="question" width="400">
 </center>
@@ -19,17 +17,14 @@ Previously, I graduated with a M.Sc. degree in Computer Science from the Univers
 [Alexandria](https://www.alexandria.unisg.ch/persons/8380)<br/>
 
 
-
 # Projects
 
-### From Complex Sentences to a Formal Semantic Representation using Syntactic Text Simplification and Open Information Extraction
+### From Complex Sentences to a Formal Semantic Representation using Syntactic Text Simplification and Open Information Extraction:
+Sentences that present a complex linguistic structure act as a major stumbling block for semantic applications whose predictive quality deteriorates with sentence length and complexity. The task of Text simplification aims to modify sentences in order to make them easier to process, using a set of rewriting operations, such as reordering, deletion or splitting. These transformations are executed with the objective of converting the input into a simplified output, while preserving its main idea and keeping it grammatically sound. To address this challenge, we are developping a discourse-aware Text Simplification framework that is able to split and rephrase complex sentences within the semantic context in which they occur. It uses a linguistically grounded transformation stage that first transforms syntactically complex sentences into smaller units with a simpler structure using clausal and phrasal disembedding mechanisms. By using a recursive top-down approach, the framework is able to generate a hierarchical representation between those units, capturing both their semantic context and relations to other units in the form of rhetorical relations. In that way, a semantic hierarchy of minimal propositions is generated that may benefit downstream semantic tasks, such as Machine Translation or Information Extraction.
 
 
 ### Improving the Argumentation Skills of Students through Machine Learning:
-Argumentation is an omnipresent foundation of our daily communication and thinking. The ability of forming convincing arguments is not only the fundament for persuading an audience of novel ideas, but also plays a major role in strategic decision making and analyzing different standpoints. This has been recognized by the Organization for Economic Co‐operation and Development (OECD), which named these so‐called meta cognition skills a major part of their Learning Framework 2030. However, teachers face difficulties to teach argumentation skills to students due to increasing lecture sizes. Therefore, students often suffer from the lack of support, such as formative feedback in their individual learners’ journey.A promising way to support students in learning structured argumentation and enabling teachers to convey it class‐size independently, is the usage of adaptive technology‐based applications in a socio‐technical system for a student’s learning journey. Within our research project, we aim to explore this potential by developing an adaptive argumentation feedback system which actively supports students in improving their ability to argue in a structured, logical and reflective way - autonomously and independently of the instructor, time and place.
-
-
-
+Argumentation is an omnipresent foundation of our daily communication and thinking. The ability of forming convincing arguments is not only the fundament for persuading an audience of novel ideas, but also plays a major role in strategic decision making and analyzing different standpoints. This has been recognized by the Organization for Economic Co‐operation and Development (OECD), which named these so‐called meta cognition skills a major part of their Learning Framework 2030. However, teachers face difficulties to teach argumentation skills to students due to increasing lecture sizes. Therefore, students often suffer from the lack of support, such as formative feedback in their individual learners’ journey. A promising way to support students in learning structured argumentation and enabling teachers to convey it class‐size independently, is the usage of adaptive technology‐based applications in a socio‐technical system for a student’s learning journey. Within our research project, we aim to explore this potential by developing an adaptive argumentation feedback system which actively supports students in improving their ability to argue in a structured, logical and reflective way - autonomously and independently of the instructor, time and place.
 
 
 # Research Interests
